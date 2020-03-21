@@ -1,0 +1,13 @@
+Nome autores*
+Ano*
+Titulo*
+Nome Revista*
+Volume*
+Educao*
+Editora
+ISSN*
+Páginas
+DOI
+
+*Obrigatório
+
